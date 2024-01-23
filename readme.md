@@ -1,8 +1,5 @@
 # SoundX - Discord Music Bot
 
-[![GitHub stars](https://img.shields.io/github/stars/darkk009/SoundX.svg)](https://github.com/darkk009/SoundX/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/SoundX/SoundX.svg)](https://github.com/darkk009/SoundX/issues)
-
 SoundX is a powerful and customizable Discord music bot framework that simplifies the process of creating feature-rich music bots for your Discord server. Whether you're a seasoned developer or just starting with Discord bot development.
 
 ## Features
