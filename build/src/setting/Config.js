@@ -31,7 +31,7 @@ export default class OrasConfig extends Object {
         this.botinvite = `https://discord.com/api/oauth2/authorize?client_id=1093791684896235551&permissions=8&scope=applications.commands%20bot`;
         this.spotiId = "6e5e869116404a7791dc8701559bbc24";
         this.spotiSecret = "545dd6dfe441412aaa84c6a38b9b2ceb";
-        this.owners = ["992472529413349400", "847770840266833961", "838338447932391436"];
+        this.owners = ["992472529413349400"];
         this.color = "#f54c4c";
         this.supportId = "1101783002163449957";
         this.spotiNodes = [
