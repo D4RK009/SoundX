@@ -21,7 +21,7 @@ To get started with SoundX, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/darkk009/SoundX.git
+   git clone https://github.com/D4RK009/SoundX.git
    ```
 
 2. **Install dependencies:**
