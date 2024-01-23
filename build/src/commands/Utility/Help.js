@@ -30,7 +30,7 @@ constructor(client) {
                     .addFields([
                     {
                         name: `Categories`,
-                        value: `> ${this.client.emoji.helpMenu.music} **\`:\` Music**\n> ${this.client.emoji.helpMenu.filters} **\`:\` Filters**\n> ${this.client.emoji.helpMenu.playlists} **\`:\` Playlists**\n> ${this.client.emoji.helpMenu.utility} **\`:\` Utilities**\n> ${this.client.emoji.helpMenu.info} **\`:\` Information**\n> ${this.client.emoji.helpMenu.allCommands} **\`:\` All Commands**\n\n•Select Category From Below Menu`,
+                        value: `> ${this.client.emoji.helpMenu.music} **\`:\` Music**\n> ${this.client.emoji.helpMenu.filters} **\`:\` Filters**\n> ${this.client.emoji.helpMenu.utility} **\`:\` Utilities**\n> ${this.client.emoji.helpMenu.playlists} **\`:\` Playlists**\n> ${this.client.emoji.helpMenu.info} **\`:\` Information**\n> ${this.client.emoji.helpMenu.allCommands} **\`:\` All Commands**\n\n•Select Category From Below Menu`,
                     },
                 ])
                     .setThumbnail(this.client.user.displayAvatarURL());
